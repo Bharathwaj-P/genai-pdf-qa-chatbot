@@ -61,4 +61,3 @@ print("Answer:", result["result"])
 
 ## RESULT:
 The PDF-based question-answering chatbot was designed and implemented successfully using LangChain. The program accurately extracted text from the document, generated vector indices, and answered content-specific user queries correctly without any errors.
-The PDF-based question-answering chatbot was designed and implemented successfully using LangChain. The program accurately extracted text from the document, generated vector indices, and answered content-specific user queries correctly without any errors.
